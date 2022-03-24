@@ -52,7 +52,7 @@ LOM
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Decision Analysis 2, Linear Regression (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hst951_3))
+Decision Analysis 2, Linear Regression ([PDF]({{< baseurl >}}/resources/hst951_3))
 {{< tdclose >}}
 {{< tdopen >}}
 LOM
